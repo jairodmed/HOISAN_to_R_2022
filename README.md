@@ -29,7 +29,7 @@ Official website: https://jairodmed.shinyapps.io/HOISAN_to_R_2022/
 
 CRAN page: 
 
-GitHub repository: https://github.com/jairodmed/HOISAN_to_R
+GitHub repository: https://github.com/jairodmed/HOISAN_to_R_2022
 
 Tutorial: https://drive.google.com/open?id=0B48gIxLQzSnBajloYWtYQWpnQUdzMFhheUNtOENmMjFDX2xJ
 
